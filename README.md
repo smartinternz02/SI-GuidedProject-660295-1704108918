@@ -11,3 +11,6 @@
 
 
 [Visualizing Sustainability Exploration](https://eu1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FVisulization%2BSustanability%2Bexploration&subView=model0000018c7c508f3f_00000004)
+
+
+[Getting Started with Enterprise Data Science](https://www.credly.com/badges/fab7f4b2-7e89-4264-8d05-4f595099c590/public_url)
