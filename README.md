@@ -8,3 +8,6 @@
 
 
 [Visualizing Sustainability Story](https://eu1.ca.analytics.ibm.com/bi/?perspective=story&pathRef=.my_folders%2FSustanability%2BStory&action=view&sceneId=model0000018c86b08209_00000002&sceneTime=0)
+
+
+[Visualizing Sustainability Exploration](https://eu1.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FVisulization%2BSustanability%2Bexploration&subView=model0000018c7c508f3f_00000004)
