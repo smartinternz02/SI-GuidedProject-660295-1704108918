@@ -16,4 +16,4 @@
 [Badge1 : Getting Started with Enterprise Data Science](https://www.credly.com/badges/fab7f4b2-7e89-4264-8d05-4f595099c590/public_url)
 
 
-[Badge2:Journey to Cloud: Envisioning Your Solution ](https://www.credly.com/badges/b1891be5-562e-4a83-8b61-11f25e6dc7b0/public_url)
+[Badge2: Journey to Cloud: Envisioning Your Solution ](https://www.credly.com/badges/b1891be5-562e-4a83-8b61-11f25e6dc7b0/public_url)
